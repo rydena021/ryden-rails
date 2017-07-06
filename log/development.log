@@ -3317,3 +3317,12 @@ Processing by PagesController#index as HTML
 Completed 200 OK in 26ms (Views: 24.5ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-07-06 02:57:25 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (381.5ms)
+  Rendered shared/_banner.html.erb (0.8ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 410ms (Views: 409.1ms | ActiveRecord: 0.0ms)
+
+
