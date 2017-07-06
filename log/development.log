@@ -3605,3 +3605,210 @@ Processing by PagesController#index as HTML
 Completed 200 OK in 22ms (Views: 20.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:33:50 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (242.9ms)
+  Rendered shared/_banner.html.erb (0.8ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 303ms (Views: 302.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:37:13 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (228.8ms)
+  Rendered shared/_banner.html.erb (1.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 333ms (Views: 331.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:38:51 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.2ms)
+  Rendered shared/_banner.html.erb (0.8ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 22ms (Views: 20.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:38:54 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.3ms)
+  Rendered shared/_banner.html.erb (1.1ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 25ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:38:55 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.2ms)
+  Rendered shared/_banner.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:38:57 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.3ms)
+  Rendered shared/_banner.html.erb (0.8ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 22ms (Views: 21.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:39:34 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.2ms)
+  Rendered shared/_banner.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 23ms (Views: 21.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:39:39 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.4ms)
+  Rendered shared/_banner.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 26ms (Views: 24.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:40:24 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.4ms)
+  Rendered shared/_banner.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 23ms (Views: 22.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:40:43 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.5ms)
+  Rendered shared/_banner.html.erb (1.1ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 26ms (Views: 24.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:41:09 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.5ms)
+  Rendered shared/_banner.html.erb (1.3ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 26ms (Views: 24.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:42:20 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.4ms)
+  Rendered shared/_banner.html.erb (1.1ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 24.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:42:31 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.1ms)
+  Rendered shared/_banner.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 21ms (Views: 20.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:42:45 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.9ms)
+  Rendered shared/_banner.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 20ms (Views: 19.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:43:11 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.6ms)
+  Rendered shared/_banner.html.erb (1.1ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 26ms (Views: 24.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:43:29 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.6ms)
+  Rendered shared/_banner.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 19ms (Views: 17.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:44:24 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.0ms)
+  Rendered shared/_banner.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 22ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:47:03 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (8.9ms)
+  Rendered shared/_banner.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 3093ms (Views: 3091.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:47:59 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.2ms)
+  Rendered shared/_banner.html.erb (1.1ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 2746ms (Views: 2745.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:49:03 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.4ms)
+  Rendered shared/_banner.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 2634ms (Views: 2633.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:51:16 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (5.8ms)
+  Rendered shared/_banner.html.erb (1.1ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 2718ms (Views: 2716.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:51:45 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (20.6ms)
+  Rendered shared/_banner.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 39ms (Views: 37.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-06 03:51:51 -0500
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.9ms)
+  Rendered shared/_banner.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 20ms (Views: 18.8ms | ActiveRecord: 0.0ms)
+
+
